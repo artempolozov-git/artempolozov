@@ -27,6 +27,7 @@ export default {
 <style>
   html, body {
     height: 100%;
+    font-size: 16px;
   }
   body {
     margin: initial;
@@ -38,13 +39,13 @@ export default {
     min-height: 100%;
   }
   @font-face {
-    font-family: GoogleSans;
+    font-family: YandexSansDisplay;
     src: url('./assets/YandexSansDisplay-Bold.ttf');
     font-weight: bold;
     font-display: fallback;
   }
   @font-face {
-    font-family: GoogleSans;
+    font-family: YandexSansDisplay;
     src: url('./assets/YandexSansDisplay-Regular.ttf');
     font-weight: normal;
   }

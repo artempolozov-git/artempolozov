@@ -14,6 +14,6 @@
 .footer {
   width: 100%;
   height: 300px;
-  background-color: green;
+  background-color: #EFEFEF;
 }
 </style>

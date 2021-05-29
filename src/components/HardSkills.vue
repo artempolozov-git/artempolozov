@@ -21,10 +21,10 @@
           Умение работать с псевдоклассами. Умение работать с единицами измерения: %, px, em, rem, vh, vw.</div>
       </div>
       <div class="hs-block">
-        <div class="position"><span class="specialty">JavaScript:</span> Изучены основы языка JavaScript ES6. Изучено работа с DOM элементами. Изучена теория ООП. Умение подключать и использовать библиотеки.</div>
+        <div class="position"><span class="specialty">JavaScript:</span> Изучены основы языка JavaScript ES6. Изучена работа с DOM элементами. Изучена теория ООП. Умение подключать и использовать библиотеки.</div>
       </div>
       <div class="hs-block">
-        <div class="position"><span class="specialty">Vue.js:</span> Изучены основы фреймворка Vue.js. Умение работать с компонентами.</div>
+        <div class="position"><span class="specialty">Vue.js:</span> Изучены основы фреймворка Vue.js. Умение работать с компонентами и реактивностью.</div>
       </div>
       <div class="hs-block">
         <div class="position"><span class="specialty">GitHub:</span> Умение работать с системой GitHub. Умение создавать репозитории. Умение пушить проекты. Умение создавать коммиты.</div>
@@ -47,7 +47,7 @@
 
 <style>
 .hs-container {
-  padding: 0em 18em;
+  padding: 0 18em;
 }
 .hs-block {
   margin-left: 4em;
@@ -60,6 +60,6 @@
   color: #0F0FEA;
 }
 .position {
-  color: #444444;
+  color: #565656;
 }
 </style>

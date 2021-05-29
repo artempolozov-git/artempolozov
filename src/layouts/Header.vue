@@ -8,7 +8,7 @@
         <div class="person-contacts">
           <a target="_blank" class="email" href="mailto:artempolozov@bk.ru"><img src="../assets/icons/email.svg">artempolozov@bk.ru</a>
           <a target="_blank" class="github" href="https://github.com/artempolozov-git"><img src="../assets/icons/github.svg">artempolozov-git</a>
-          <a target="_blank" class="behance" href="https://www.behance.net/rampix-studio?isa0=1"><img src="../assets/icons/behance.svg">behance.net/rampix-studio</a>
+          <a target="_blank" class="behance" href="https://www.behance.net/rampix-studio?isa0=1"><img src="../assets/icons/behance.svg">rampix-studio</a>
           <a target="_blank" class="download-pdf" href="resume.pdf" download="Резюме на вакансию.pdf"><img src="../assets/icons/download.svg">Скачать резюме PDF</a>
         </div>
       </div>
@@ -22,7 +22,7 @@
     }
 </script>
 
-<style scoped>
+<style>
 .header {
   width: 100%;
   height: 17em;

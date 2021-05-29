@@ -36,7 +36,7 @@
 
 <style>
 .portfolio-container {
-  padding: 3em 18em;
+  padding: 2em 18em;
 }
 .portfolio-description {
   color: #565656;

@@ -24,7 +24,7 @@
 
 <style>
 .about-container {
-  padding: 3em 18em;
+  padding: 2em 18em;
   display: flex;
 }
 .about-filling {

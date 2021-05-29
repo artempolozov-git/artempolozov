@@ -27,22 +27,6 @@
   padding: 3em 18em;
   display: flex;
 }
-.icon > img {
-  width: 3em;
-  margin-right: 1em;
-}
-.title-container {
-  display: flex;
-  align-items: center;
-}
-.title {
-  width: 100%;
-  border-bottom: 1px solid #bbbbbb;
-  color: #444444;
-  margin: 0;
-  margin-bottom: 0.3em;
-  font-size: 1.5em;
-}
 .about-filling {
   color: #565656;
   margin-left: 4em;

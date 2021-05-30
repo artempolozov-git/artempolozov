@@ -47,7 +47,7 @@
 
 <style>
 .ss-container {
-  padding: 2em 18em;
+  padding: 2em 30em;
 }
 .ss-block {
   margin-left: 4em;
@@ -58,5 +58,45 @@
   font-weight: bold;
   font-size: 1.2em;
   color: #565656;
+}
+@media only screen and (max-width : 1680px) {
+  .ss-container {
+    padding: 2em 25em;
+  }
+}
+@media only screen and (max-width : 1536px) {
+  .ss-container {
+    padding: 2em 18em;
+  }
+}
+@media only screen and (max-width : 1366px) {
+  .ss-container {
+    padding: 2em 16em;
+  }
+}
+@media only screen and (max-width : 1280px) {
+  .ss-container {
+    padding: 2em 15em;
+  }
+}
+@media only screen and (max-width : 1150px) {
+  .ss-container {
+    padding: 2em 8em;
+  }
+}
+@media only screen and (max-width : 1024px) {
+  .ss-container {
+    padding: 2em 3em;
+  }
+}
+@media only screen and (max-width : 600px) {
+  .ss-block {
+    margin-left: 0;
+  }
+}
+@media only screen and (max-width : 360px) {
+  .ss-container {
+    padding: 2em 2em;
+  }
 }
 </style>

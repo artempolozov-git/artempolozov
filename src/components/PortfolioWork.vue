@@ -17,6 +17,7 @@
       <a class="tres-site" href="https://www.behance.net/gallery/109437093/Landing-page-veb-dizajn-i-razrabotka-sajta-UXUI" target="_blank"></a>
       <a class="csk-site" href="https://www.behance.net/gallery/109068201/sajt-dlja-magazina-stroitelnyh-materialov" target="_blank"></a>
       <a class="zabor-region" href="https://www.behance.net/gallery/109236855/dizajn-i-razrabotka-sajta-dlja-stroitelnoj-organizacii" target="_blank"></a>
+      <a class="behance-site" href="https://www.behance.net/rampix-studio" target="_blank"></a>
     </div>
     <div class="logo-grid">
       <a class="logo-site" href="https://www.verhotour.com/" target="_blank"><img src="../assets/icons/verhotour-logo.svg"></a>
@@ -36,7 +37,7 @@
 
 <style>
 .portfolio-container {
-  padding: 2em 18em;
+  padding: 2em 30em;
 }
 .portfolio-description {
   color: #565656;
@@ -131,8 +132,17 @@
   background-position: center;
   transition: all .2s ease;
 }
+.behance-site {
+  display: none;
+  width: 100%;
+  height: 12em;
+  background: url(../assets/images/behance.webp);
+  background-size: cover;
+  background-position: center;
+  transition: all .2s ease;
+}
 .verhotour-logo:hover, .verhotour-site:hover, .rampix-site:hover, .cosmomap-site:hover,
-.slovakia-site:hover, .tres-rebranding:hover, .tres-site:hover, .csk-site:hover, .zabor-region:hover {
+.slovakia-site:hover, .tres-rebranding:hover, .tres-site:hover, .csk-site:hover, .zabor-region:hover, .behance:hover {
   transition: all .2s ease;
   transform: scale(1.02);
   cursor: pointer;
@@ -154,5 +164,64 @@
   filter: grayscale(0%);
   cursor: pointer;
   opacity: 100%;
+}
+@media only screen and (max-width : 1680px) {
+  .portfolio-container {
+    padding: 2em 25em;
+  }
+}
+@media only screen and (max-width : 1536px) {
+  .portfolio-container {
+    padding: 2em 18em;
+  }
+}
+@media only screen and (max-width : 1366px) {
+  .portfolio-container {
+    padding: 2em 16em;
+  }
+}
+@media only screen and (max-width : 1280px) {
+  .portfolio-container {
+    padding: 2em 15em;
+  }
+}
+@media only screen and (max-width : 1150px) {
+  .portfolio-container {
+    padding: 2em 8em;
+  }
+}
+@media only screen and (max-width : 1024px) {
+  .portfolio-container {
+    padding: 2em 3em;
+  }
+}
+@media only screen and (max-width : 800px) {
+  .portfolio-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .behance-site {
+    display: block;
+  }
+}
+@media only screen and (max-width : 600px) {
+  .portfolio-description {
+    margin-left: 0;
+  }
+  .logo-grid {
+    grid-column-gap: 2em;
+  }
+}
+@media only screen and (max-width : 500px) {
+  .portfolio-grid {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+@media only screen and (max-width : 360px) {
+  .portfolio-container {
+    padding: 2em 2em;
+  }
+  .logo-grid {
+    grid-column-gap: 1em;
+  }
 }
 </style>

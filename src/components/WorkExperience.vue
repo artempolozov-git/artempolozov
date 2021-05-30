@@ -48,7 +48,7 @@
 
 <style>
 .work-container {
-  padding: 0 18em;
+  padding: 0 30em;
   display: flex;
   justify-content: center;
 }
@@ -69,5 +69,45 @@
 }
 .position {
   color: #565656;
+}
+@media only screen and (max-width : 1680px) {
+  .work-container {
+    padding: 0 25em;
+  }
+}
+@media only screen and (max-width : 1536px) {
+  .work-container {
+    padding: 0 18em;
+  }
+}
+@media only screen and (max-width : 1366px) {
+  .work-container {
+    padding: 0 16em;
+  }
+}
+@media only screen and (max-width : 1280px) {
+  .work-container {
+    padding: 0 15em;
+  }
+}
+@media only screen and (max-width : 1150px) {
+  .work-container {
+    padding: 0 8em;
+  }
+}
+@media only screen and (max-width : 1024px) {
+  .work-container {
+    padding: 0 3em;
+  }
+}
+@media only screen and (max-width : 600px) {
+  .experience-container {
+    margin-left: 0;
+  }
+}
+@media only screen and (max-width : 360px) {
+  .work-container {
+    padding: 0 2em;
+  }
 }
 </style>

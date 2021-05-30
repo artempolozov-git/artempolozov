@@ -24,8 +24,8 @@
 
 <style>
 .header {
-  width: 100%;
-  height: 17em;
+  padding: 3em 0;
+  height: auto;
   display: flex;
   background-color: #EFEFEF;
 }
@@ -36,8 +36,8 @@
   align-items: center;
 }
 .person-photo {
-  width: 11vw;
-  height: 11vw;
+  width: 9vw;
+  height: 9vw;
   border-radius: 50%;
   background: url(../assets/images/personal-photo.webp);
   background-size: cover;
@@ -84,5 +84,81 @@
 img {
   width: 1.5em;
   margin-right: 0.5em;
+}
+@media only screen and (max-width : 1680px) {
+  .person-photo {
+    width: 10vw;
+    height: 10vw;
+  }
+}
+@media only screen and (max-width : 1536px) {
+  .person-photo {
+    width: 11vw;
+    height: 11vw;
+  }
+}
+@media only screen and (max-width : 1366px) {
+  .person-photo {
+    width: 12vw;
+    height: 12vw;
+  }
+}
+@media only screen and (max-width : 1150px) {
+  .person-photo {
+    width: 13vw;
+    height: 13vw;
+  }
+}
+@media only screen and (max-width : 1024px) {
+  .main-container {
+    display: block;
+  }
+  .person-photo {
+    margin: auto;
+    width: 15vw;
+    height: 15vw;
+  }
+  .person-info {
+    margin-top: 2em;
+    margin-left: 0;
+  }
+  .resume-title, .resume-info {
+    text-align: center;
+  }
+  .person-contacts {
+    justify-content: center;
+  }
+}
+@media only screen and (max-width : 800px) {
+  .person-photo {
+    width: 20vw;
+    height: 20vw;
+  }
+  .person-contacts {
+    display: block;
+  }
+  .email, .github, .behance, .download-pdf {
+    justify-content: center;
+    margin-left: 0;
+    margin-top: 2em;
+  }
+}
+@media only screen and (max-width : 600px) {
+  .header {
+    padding: 3em 2em;
+  }
+  .person-photo {
+    width: 30vw;
+    height: 30vw;
+  }
+}
+@media only screen and (max-width : 360px) {
+  .header {
+    padding: 3em 1em;
+  }
+  .person-photo {
+    width: 45vw;
+    height: 45vw;
+  }
 }
 </style>

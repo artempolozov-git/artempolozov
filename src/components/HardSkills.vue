@@ -47,7 +47,7 @@
 
 <style>
 .hs-container {
-  padding: 0 18em;
+  padding: 0 30em;
 }
 .hs-block {
   margin-left: 4em;
@@ -61,5 +61,45 @@
 }
 .position {
   color: #565656;
+}
+@media only screen and (max-width : 1680px) {
+  .hs-container {
+    padding: 0 25em;
+  }
+}
+@media only screen and (max-width : 1536px) {
+  .hs-container {
+    padding: 0 18em;
+  }
+}
+@media only screen and (max-width : 1366px) {
+  .hs-container {
+    padding: 0 16em;
+  }
+}
+@media only screen and (max-width : 1280px) {
+  .hs-container {
+    padding: 0 15em;
+  }
+}
+@media only screen and (max-width : 1150px) {
+  .hs-container {
+    padding: 0 8em;
+  }
+}
+@media only screen and (max-width : 1024px) {
+  .hs-container {
+    padding: 0 3em;
+  }
+}
+@media only screen and (max-width : 600px) {
+  .hs-block {
+    margin-left: 0;
+  }
+}
+@media only screen and (max-width : 360px) {
+  .hs-container {
+    padding: 0 2em;
+  }
 }
 </style>

@@ -22,8 +22,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100%;
-  height: 17em;
+  padding: 4em 0;
+  height: auto;
   background-color: #EFEFEF;
 }
 .email-to {
@@ -31,7 +31,7 @@
   justify-content: center;
   color: #0F0FEA;
   font-weight: bold;
-  font-size: 4em;
+  font-size: 3.5em;
   text-decoration: none;
 }
 .email-to:hover {
@@ -42,5 +42,20 @@
   justify-content: center;
   align-items: center;
   margin-top: 2em;
+}
+@media only screen and (max-width : 800px) {
+  .contacts {
+    display: none;
+  }
+}
+@media only screen and (max-width : 600px) {
+  .email-to {
+    font-size: 2em;
+  }
+}
+@media only screen and (max-width : 360px) {
+  .email-to {
+    font-size: 1.5em;
+  }
 }
 </style>

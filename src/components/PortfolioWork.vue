@@ -142,7 +142,7 @@
   transition: all .2s ease;
 }
 .verhotour-logo:hover, .verhotour-site:hover, .rampix-site:hover, .cosmomap-site:hover,
-.slovakia-site:hover, .tres-rebranding:hover, .tres-site:hover, .csk-site:hover, .zabor-region:hover, .behance:hover {
+.slovakia-site:hover, .tres-rebranding:hover, .tres-site:hover, .csk-site:hover, .zabor-region:hover, .behance-site:hover {
   transition: all .2s ease;
   transform: scale(1.02);
   cursor: pointer;
@@ -158,12 +158,12 @@
 .logo-site > img {
   width: 100%;
   filter: grayscale(100%);
-  opacity: 70%;
+  opacity: 0.5;
 }
 .logo-site:hover > img {
   filter: grayscale(0%);
   cursor: pointer;
-  opacity: 100%;
+  opacity: 1;
 }
 @media only screen and (max-width : 1680px) {
   .portfolio-container {

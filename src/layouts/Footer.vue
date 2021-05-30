@@ -5,7 +5,7 @@
       <div class="contacts">
         <a target="_blank" class="github" style="margin-left: 0" href="https://github.com/artempolozov-git"><img src="../assets/icons/github.svg">artempolozov-git</a>
         <a target="_blank" class="behance" href="https://www.behance.net/rampix-studio?isa0=1"><img src="../assets/icons/behance.svg">rampix-studio</a>
-        <a target="_blank" class="download-pdf" href="resume.pdf" download="Резюме на вакансию.pdf"><img src="../assets/icons/download.svg">Скачать резюме PDF</a>
+        <a target="_blank" class="download-pdf" href="resume.pdf" download="Резюме на вакансию Junior Frontend-разработчик. UX UI Дизайнер.pdf"><img src="../assets/icons/download.svg">Скачать резюме PDF</a>
       </div>
     </div>
   </div>

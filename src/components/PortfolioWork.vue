@@ -202,13 +202,17 @@
   .behance-site {
     display: block;
   }
+  .verhotour-logo:hover, .verhotour-site:hover, .rampix-site:hover, .cosmomap-site:hover,
+  .slovakia-site:hover, .tres-rebranding:hover, .tres-site:hover, .csk-site:hover, .zabor-region:hover, .behance-site:hover {
+    transform: scale(0);
+  }
 }
 @media only screen and (max-width : 600px) {
   .portfolio-description {
     margin-left: 0;
   }
   .logo-grid {
-    grid-column-gap: 2em;
+    grid-column-gap: 1em;
   }
 }
 @media only screen and (max-width : 500px) {

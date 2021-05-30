@@ -18,7 +18,7 @@
         <div class="position"><span class="soft-skills">Планирование - </span>способность планировать свою работу и разбивать её на этапы.</div>
       </div>
       <div class="ss-block">
-        <div class="position"><span class="soft-skills">Работа в команде - </span>находить общий язык, договариваться на задачи и сроки, согласовывать этапы работы.</div>
+        <div class="position"><span class="soft-skills">Работа в команде - </span>способность находить общий язык, договариваться на задачи и сроки, согласовывать этапы работы.</div>
       </div>
       <div class="ss-block">
         <div class="position"><span class="soft-skills">Понимание результата - </span>понимание того, какой результат работы должен получиться из текущей задачи.</div>

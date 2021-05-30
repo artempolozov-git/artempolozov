@@ -204,7 +204,7 @@
   }
   .verhotour-logo:hover, .verhotour-site:hover, .rampix-site:hover, .cosmomap-site:hover,
   .slovakia-site:hover, .tres-rebranding:hover, .tres-site:hover, .csk-site:hover, .zabor-region:hover, .behance-site:hover {
-    transform: scale(0);
+    transform: scale(1.02);
   }
 }
 @media only screen and (max-width : 600px) {

@@ -140,7 +140,7 @@ img {
   .email, .github, .behance, .download-pdf {
     justify-content: center;
     margin-left: 0;
-    margin-top: 2em;
+    margin-top: 1.5em;
   }
 }
 @media only screen and (max-width : 600px) {

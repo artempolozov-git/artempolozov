@@ -35,7 +35,7 @@
   text-decoration: none;
 }
 .email-to:hover {
-  opacity: 70%;
+  opacity: 0.7;
 }
 .contacts {
   display: flex;

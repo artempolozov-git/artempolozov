@@ -18,23 +18,39 @@
         Постпечатная обработка полиграфической продукции.</div>
       </div>
       <div class="experience-container">
-        <span class="years">Конец 2019г. - н.в. </span><span class="work-place">Графический дизайнер и Веб-разработчик сайтов фриланс</span>
-        <div class="position"><strong>Графический дизайн:</strong> Создание дизайн-макетов для сайтов, UX/UI дизайн, создание брендбуков, гайдлайнов,
-        создание логотипов, дизайн баннеров, вывесок, визиток, корпоративный дизайн и фирменный стиль компании,
-        дизайн-оформление бизнеса и социальных сетей.</div>
-        <div class="position"><strong>Разработка сайтов:</strong></div>
-        <div class="position"><strong>Первый проект:</strong> Создание логотипа, создание макета сайта, UX/ UI дизайн, разработка и техническая настройка
-        сайта для строительной организации «ЗАБОР-РЕГИОН».</div>
-        <div class="position"><strong>Участие в проекте:</strong> Работа в команде разработчиков. Верстка сайта для строительного магазина «ЦСК».</div>
-        <div class="position"><strong>Второй проект:</strong> Ребрендинг логотипа, создание макета сайта, UX/ UI дизайн, разработка и техническая настройка
-        сайта для компании по услугам ландшафтного дизайна – «ТРЕС».</div>
-        <div class="position"><strong>Третий проект:</strong> Создание логотипа, дизайн инстаграма, создание макета сайта, UX/ UI дизайн, разработка
-        и техническая настройка сайта для инстаграм-магазина карт звездного неба «Cosmomap».</div>
-        <div class="position"><strong>Четвертый проект:</strong> Создание логотипа, создание макета сайта, UX/ UI дизайн, разработка и техническая настройка
-        сайта для собственного проекта по веб-разработке «Rampix.ru».</div>
-        <div class="position"><strong>Пятый проект:</strong> Создание логотипа, создание макета сайта, UX/ UI дизайн, разработка и техническая настройка
-        сайта для туристической компании «VerhoTour».</div>
-        <div class="position"><strong>Шестой проект:</strong> Дизайн и верстка сайта резюме «artempolozov.ru».</div>
+        <span class="years">Конец 2019г. - н.в. </span><span class="work-place">Графический дизайнер и Веб-разработчик сайтов</span>
+        <div class="position-title"><strong>Графический дизайн:</strong> </div>
+          <div class="position">Создание макетов для сайтов, UI/UX дизайн, создание брендбуков, гайдлайнов, дизайн логотипов,
+          корпоративный дизайн и фирменный стиль компании, оформление бизнеса и социальных сетей.
+          <br>Портфолио на <a class="target-link" target="_blank" href="https://www.behance.net/rampix-studio/">Behance</a>
+          <br>Опыт работы в графических редакторах: Adobe Illustrator и Adobe Photoshop, могу работать с Figma.</div>
+        <div class="position-title"><strong>Разработка сайтов:</strong></div>
+        <div class="position"><strong>Первый проект: </strong>Создание логотипа, создание макета сайта, UI/UX дизайн, разработка и техническая настройка
+        сайта для строительной организации <a class="target-link" target="_blank" href="https://zabor-region.ru/">«ЗАБОР-РЕГИОН»</a>
+          <br>Стек технологий: HTML, CSS, JavaScript, Vue.js
+        </div>
+        <div class="position"><strong>Второй проект: </strong>Работа в команде разработчиков. Верстка сайта для строительного магазина <a class="target-link" target="_blank" href="https://www.behance.net/gallery/109068201/sajt-dlja-magazina-stroitelnyh-materialov">«ЦСК»</a>
+          <br>Стек технологий: HTML, CSS, JavaScript, Vue.js
+        </div>
+        <div class="position"><strong>Третий проект: </strong>Ребрендинг логотипа, создание макета сайта, UI/UX дизайн, разработка и техническая настройка
+          сайта для компании по услугам ландшафтного дизайна – <a class="target-link" target="_blank" href="https://tresltd.ru/">«ТРЕС»</a>
+          <br>Стек технологий: HTML, CSS, JavaScript, Vue.js
+        </div>
+        <div class="position"><strong>Четвертый проект: </strong>Создание логотипа, дизайн инстаграма, создание макета сайта, UI/UX дизайн, разработка
+          и техническая настройка сайта для инстаграм-магазина карт звездного неба <a class="target-link" target="_blank" href="https://cosmomap.ru/">«Cosmomap»</a>
+          <br>Стек технологий: HTML, CSS, JavaScript, Vue.js
+        </div>
+        <div class="position"><strong>Пятый проект: </strong>Создание логотипа, создание макета сайта, UI/UX дизайн, разработка и техническая настройка
+          сайта для собственного проекта по веб-разработке <a class="target-link" target="_blank" href="https://rampix.ru/">«Rampix.ru»</a>
+          <br>Стек технологий: HTML, CSS, JavaScript, Vue.js
+        </div>
+        <div class="position"><strong>Шестой проект: </strong>Создание логотипа, создание макета сайта, UI/UX дизайн, разработка и техническая настройка
+          сайта для туристической компании <a class="target-link" target="_blank" href="https://verhotour.com/">«VerhoTour»</a>
+          <br>Стек технологий: HTML, CSS, JavaScript, Vue.js
+        </div>
+        <div class="position"><strong>Седьмой проект: </strong>Дизайн и верстка сайта резюме <a class="target-link" target="_blank" href="https://artempolozov.ru/">«artempolozov.ru»</a>
+          <br>Стек технологий: HTML, CSS, Vue.js
+        </div>
       </div>
     </div>
   </div>
@@ -57,6 +73,13 @@
   margin-top: 0.5em;
   line-height: 1.4;
 }
+.target-link {
+  text-decoration: none;
+  color: #0F0FEA;
+}
+.target-link:hover {
+  color: #cd0012;
+}
 .years {
   font-weight: bold;
   font-size: 1.2em;
@@ -69,6 +92,10 @@
 }
 .position {
   color: #565656;
+}
+.position-title {
+  color: #565656;
+  font-size: 1.5em;
 }
 @media only screen and (max-width : 1680px) {
   .work-container {

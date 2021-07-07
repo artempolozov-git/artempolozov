@@ -37,4 +37,8 @@
   margin-bottom: 0.3em;
   font-size: 1.5em;
 }
+.vue-tooltip {
+  text-align: center;
+  font-size: 1em;
+}
 </style>

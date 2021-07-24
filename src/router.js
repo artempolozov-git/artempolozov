@@ -18,8 +18,8 @@ const router = new Router({
                 default: () => import('@/views/Home.vue')
             },
             meta: {
-                title: 'Резюме на вакансию frontend-разработчик. UI/UX Дизайнер"',
-                description: ''
+                title: 'Резюме на вакансию frontend-разработчик. UI/UX Дизайнер',
+                description: 'Резюме на вакансию frontend-разработчик. UI/UX Дизайнер'
             },
             children: [],
         },

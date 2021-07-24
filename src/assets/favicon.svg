@@ -1,23 +1,16 @@
-<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 557.97 502.6">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #0f0fea;
-      }
-
-      .cls-2 {
-        fill: url(#Безымянный_градиент_7);
-      }
-    </style>
-    <linearGradient id="Безымянный_градиент_7" data-name="Безымянный градиент 7" x1="-353.98" y1="265.98" x2="-406.86" y2="166.52" gradientTransform="translate(56.64 194.73) rotate(26.8)" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
-      <stop offset="0.4" stop-color="#1b1464" stop-opacity="0.2"/>
-      <stop offset="1" stop-color="#1b1464"/>
-    </linearGradient>
-  </defs>
-  <g>
-    <path class="cls-1" d="M-322.67,211.22l-29-57.34-96.08,48.53,12.13,24h0c3.8,7.49,7.67,15.14,11.58,22.87L-397.94,301l.16-.08q8.36,16.26,17,32.54c2,3.79,9.17,6.74,14,6.82,35.35.57,70.71.3,109.76.3Z" transform="translate(813.16 159.18)"/>
-    <rect class="cls-2" x="-434.24" y="161.05" width="107.64" height="110.41" transform="translate(674.81 10.9) rotate(-26.8)"/>
-    <path class="cls-1" d="M-813.16,343.3c21-41.82,40.65-81.18,60.49-120.43,17.53-34.67,35.84-69,52.64-103.95,6.61-13.78,14.16-19.49,30.55-19.26,81.35,1.11,162.72,1,244.08.34,58.14-.51,93.27-62.53,64.46-112.71C-377.7-41.91-404.61-52-436.88-51.92c-58.89.2-117.79.05-179.08.05,14.44-29.84,29.3-58.2,41.89-87.53,6.46-15.06,14.55-20.52,31.18-19.7,45.82,2.24,92.42-2.08,137.5,4.48,93.8,13.66,157.3,98.44,149.56,192.4-7.72,93.73-84.26,165.19-179.32,165.94-56,.43-112-.94-168-2.06-12.43-.25-19.64,2.6-25.57,15.27-18.22,38.89-38.27,76.94-58.53,114.82-2.82,5.28-10.75,10.88-16.46,11C-739,343.8-774.36,343.3-813.16,343.3Z" transform="translate(813.16 159.18)"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#D6001C;}
+	.st1{fill:#FFFFFF;}
+</style>
+<g>
+	<path class="st0" d="M16,32c8.8,0,16-7.2,16-16S24.8,0,16,0S0,7.2,0,16S7.2,32,16,32"/>
+	<g>
+		<path class="st1" d="M14.3,19.9l-0.5-1.3h-3.3L10,19.9H8.1l3-7.8h2.1l3,7.8H14.3z M12.2,13.8l-1.2,3.3h2.4L12.2,13.8z"/>
+		<path class="st1" d="M22.2,19.9v-6.3h-3.7v6.3h-1.7v-7.8h7v7.8H22.2z"/>
+	</g>
+</g>
 </svg>

@@ -4,12 +4,12 @@
       <div class="person-photo"></div>
       <div class="person-info">
         <h1 class="resume-title">Артём Полозов</h1>
-        <h2 class="resume-info">Резюме на вакансию Junior frontend-разработчик. UI/UX Дизайнер</h2>
+        <h2 class="resume-info">Резюме на вакансию frontend-разработчик (JavaScript, Vue.js). UI/UX Дизайнер</h2>
         <div class="person-contacts">
-          <a target="_blank" class="email" v-tooltip="'Email'" href="mailto:artempolozov@bk.ru"><img src="../assets/icons/email.svg">artempolozov@bk.ru</a>
-          <a target="_blank" class="github" v-tooltip="'GitHub'" href="https://github.com/artempolozov-git"><img src="../assets/icons/github.svg">artempolozov-git</a>
-          <a target="_blank" class="behance" v-tooltip="'Портфолио на Behance'" href="https://www.behance.net/rampix-studio?isa0=1"><img src="../assets/icons/behance.svg">rampix-studio</a>
-          <a target="_blank" class="download-pdf" v-tooltip="'Скачать резюме'" href="resume.pdf" download="Резюме на вакансию Junior Frontend-разработчик. UX UI Дизайнер.pdf"><img src="../assets/icons/download.svg">Скачать резюме PDF</a>
+          <a target="_blank" class="email" href="mailto:artempolozov@bk.ru"><img src="../assets/icons/email.svg">artempolozov@bk.ru</a>
+          <a target="_blank" class="github" href="https://github.com/artempolozov-git"><img src="../assets/icons/github.svg">artempolozov-git</a>
+          <a target="_blank" class="behance" href="https://www.behance.net/artempolozov-beh"><img src="../assets/icons/behance.svg">artempolozov-beh</a>
+          <a target="_blank" class="download-pdf" href="resume.pdf" download="Резюме на вакансию frontend-разработчик. UI/UX Дизайнер.pdf"><img src="../assets/icons/download.svg">Скачать резюме PDF</a>
         </div>
       </div>
     </div>
@@ -36,8 +36,8 @@
   align-items: center;
 }
 .person-photo {
-  width: 9vw;
-  height: 9vw;
+  width: 10vw;
+  height: 10vw;
   border-radius: 50%;
   background: url(../assets/images/personal-photo.webp);
   background-size: cover;
@@ -47,7 +47,7 @@
   margin-left: 2em;
 }
 .resume-title {
-  color: #444444;
+  color: #212122;
   margin: 0;
   margin-bottom: 0.3em;
 }
@@ -66,20 +66,20 @@
   margin-left: 2em;
   display: flex;
   align-items: center;
-  color: #565656;
+  color: #0F0FEA;
   text-decoration: none;
 }
 .github:hover, .behance:hover, .download-pdf:hover {
-  color: #0F0FEA;
+  color: #D6001C;
 }
 .email {
   display: flex;
   align-items: center;
-  color: #565656;
+  color: #0F0FEA;
   text-decoration: none;
 }
 .email:hover {
-  color: #0F0FEA;
+  color: #D6001C;
 }
 img {
   width: 1.5em;
@@ -93,8 +93,8 @@ img {
 }
 @media only screen and (max-width : 1536px) {
   .person-photo {
-    width: 11vw;
-    height: 11vw;
+    width: 13vw;
+    height: 13vw;
   }
 }
 @media only screen and (max-width : 1366px) {
@@ -134,13 +134,9 @@ img {
     width: 20vw;
     height: 20vw;
   }
-  .person-contacts {
-    display: block;
-  }
   .email, .github, .behance, .download-pdf {
     justify-content: center;
-    margin-left: 0;
-    margin-top: 1.5em;
+    margin-left: 1em;
   }
 }
 @media only screen and (max-width : 600px) {
@@ -150,6 +146,14 @@ img {
   .person-photo {
     width: 30vw;
     height: 30vw;
+  }
+  .person-contacts {
+    display: block;
+  }
+  .email, .github, .behance, .download-pdf {
+    justify-content: center;
+    margin-left: 0;
+    margin-top: 1.5em;
   }
 }
 @media only screen and (max-width : 360px) {

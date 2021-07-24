@@ -32,7 +32,7 @@
 .title {
   width: 100%;
   border-bottom: 1px solid #bbbbbb;
-  color: #444444;
+  color: #212122;
   margin: 0;
   margin-bottom: 0.3em;
   font-size: 1.5em;

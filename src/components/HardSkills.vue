@@ -21,13 +21,13 @@
           Умение работать с псевдоклассами. Умение работать с единицами измерения: %, px, em, rem, vh, vw.</div>
       </div>
       <div class="hs-block">
-        <div class="position"><span class="specialty">JavaScript:</span> Умение работать с языком JavaScript ES6. Изучена работа с DOM элементами. Изучена теория ООП. Умение подключать и использовать библиотеки.</div>
+        <div class="position"><span class="specialty">JavaScript:</span> Знание основ стандарта JavaScript ES6. Изучена работа с DOM элементами. Изучена теория ООП. Умение подключать и использовать библиотеки.</div>
       </div>
       <div class="hs-block">
-        <div class="position"><span class="specialty">Vue.js:</span> Умение работать с фреймворком Vue.js. Умение работать с компонентами и реактивностью.</div>
+        <div class="position"><span class="specialty">Vue.js:</span> Знание основ и работа с фреймворком Vue.js. Умение работать с компонентами и реактивностью.</div>
       </div>
       <div class="hs-block">
-        <div class="position"><span class="specialty">GitHub:</span> Умение работать с системой GitHub. Умение создавать репозитории. Умение пушить проекты. Умение создавать коммиты.</div>
+        <div class="position"><span class="specialty">GitHub:</span> Умение работать с системой GitHub.</div>
       </div>
       <div class="hs-block">
         <div class="position"><span class="specialty">Техническая часть:</span> Знание как работает интернет. Знание как работает браузер. Знание что такое DNS (доменное имя) и хостинг. Умение настраивать хостинг и сайт на хостинге.</div>
@@ -57,7 +57,7 @@
 .specialty {
   font-weight: bold;
   font-size: 1.2em;
-  color: #0F0FEA;
+  color: #D6001C;
 }
 .position {
   color: #565656;

@@ -4,7 +4,7 @@
       <div class="person-photo"></div>
       <div class="person-info">
         <h1 class="resume-title">Артём Полозов</h1>
-        <h2 class="resume-info">Резюме на вакансию frontend-разработчик (JavaScript, Vue.js). UI/UX Дизайнер</h2>
+        <h2 class="resume-info">Резюме на вакансию Vue.js Frontend-разработчик. UI/UX дизайнер</h2>
         <div class="person-contacts">
           <a target="_blank" class="email" href="mailto:artempolozov@bk.ru"><img src="../assets/icons/email.svg">artempolozov@bk.ru</a>
           <a target="_blank" class="github" href="https://github.com/artempolozov-git"><img src="../assets/icons/github.svg">artempolozov-git</a>

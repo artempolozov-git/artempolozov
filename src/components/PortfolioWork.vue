@@ -87,7 +87,7 @@
   display: block;
   width: 100%;
   height: 25em;
-  background: url(../assets/images/verhotour-logo.webp);
+  background: url(../assets/images/beer-app.jpg);
   background-size: cover;
   background-position: center;
   transition: all .6s ease;
@@ -132,7 +132,7 @@
   display: block;
   width: 100%;
   height: 25em;
-  background: url(../assets/images/tres-rebranding.webp);
+  background: url(../assets/images/lipetsk-online.jpg);
   background-size: cover;
   background-position: center;
   transition: all .6s ease;
